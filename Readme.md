@@ -11,6 +11,7 @@
 ## **作品概要**
 * リアリティがあるシューティングゲーム！！
 ![スクリーンショット 2023-09-13 023421](https://github.com/sasano-ha/Readme/assets/74283582/d8d94cb1-edac-4fd4-8883-14bcc001b57c)
+![スクリーンショット 2023-04-28 220437](https://github.com/sasano-ha/Readme/assets/74283582/13a0a500-4f9b-47d0-89bf-d1b4e8681e46)
 ## **操作方法**
 * WASD....上下左右移動
 * マウスカーソル....照準
