@@ -6,8 +6,11 @@
 * 制作人数....1人
 * 使用言語....C#
 * [GitHub](https://github.com/sasano-ha/GameEngine)
+### **動画（youtubeのページに行きます。）**
+[![](https://img.youtube.com/vi/LuvGu-t-Sd8/0.jpg)](https://www.youtube.com/watch?v=LuvGu-t-Sd8)
 ## **作品概要**
 * リアリティがあるシューティングゲーム！！
+![スクリーンショット 2023-09-13 023421](https://github.com/sasano-ha/Readme/assets/74283582/d8d94cb1-edac-4fd4-8883-14bcc001b57c)
 ## **操作方法**
 * WASD....上下左右移動
 * マウスカーソル....照準
@@ -77,3 +80,4 @@
   ↓
   <br>
   これの繰り返しをして点滅を演出。
+  ![スクリーンショット 2023-09-13 023555](https://github.com/sasano-ha/Readme/assets/74283582/d380ba14-eedd-40c4-8380-f2a64cfa7626)
